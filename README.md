@@ -1,6 +1,6 @@
 # First PR Practice
 
-This is a small practice repo for learning the Github pull request workflow.
+This is a small practice repo for learning the GitHub pull request workflow.
 
 ## What this is
 
